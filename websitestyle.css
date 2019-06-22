@@ -1,0 +1,11 @@
+
+button:hover {border-radius: 8px;
+    -webkit-transition-duration: 0.8s; /* Safari */
+    transition-duration: 0.8s;
+    background-color: white; /* Green */
+  color: black;
+}
+button {border-radius: 8px;
+  background-color: black;
+  width: 250px;
+}
