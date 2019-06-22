@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <html lang="en" dir="ltr">
   <head>
     <link rel="stylesheet" href="websitestyle.css">
